@@ -75,7 +75,7 @@ export default function Home() {
         {/* Question */}
         {!yesClicked && (
           <h1 className="text-center font-[family-name:var(--font-geist-mono)]">
-            Will you be my valentine?
+            Will you be my valentine Chardene Adonis pretty please?
           </h1>
         )}
 
